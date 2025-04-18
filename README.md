@@ -79,7 +79,7 @@ python main.py
 
 ## 📚 Ressources utiles
 
-- [Documentation NS-3](https://www.nsnam.org/documentation/)
+- [Documentation NS-3 et Python]([https://www.nsnam.org/documentation/](https://www.nsnam.org/docs/manual/html/python.html))
 
 
 
