@@ -1,13 +1,13 @@
 # ns3-5g-urlcc-upf
 
-# 🚀 NS-3.43 - Simulation de l’emplacement et du nombre optimal de UPFs dans un réseau 5G URLLC
+#  NS-3.43 - Simulation de l’emplacement et du nombre optimal de UPFs dans un réseau 5G URLLC
 
 Ce projet utilise **NS-3.43** pour simuler un scénario de communication **5G URLLC (Ultra-Reliable Low-Latency Communication)** avec plusieurs **UPFs (User Plane Functions)**.  
 L’objectif est de déterminer **l’emplacement optimal** et le **nombre minimal de UPFs** dans un réseau 5G pour garantir **une latence minimale** et **une fiabilité maximale**.
 
 ---
 
-## 🧰 Environnement de travail
+##  Environnement de travail
 
 - Système : WSL (Ubuntu sous Windows) ou Linux natif
 - NS-3 version : 3.43
@@ -15,7 +15,7 @@ L’objectif est de déterminer **l’emplacement optimal** et le **nombre minim
 
 ---
 
-## 📦 Prérequis
+##  Prérequis
 
 ### Installer les paquets système nécessaires
 
@@ -27,7 +27,7 @@ sudo apt install python-is-python3
 
 ---
 
-## 🏗️ Étapes d’installation
+##  Étapes d’installation
 
 ### 1. Aller dans le dossier NS-3
 
@@ -44,7 +44,7 @@ cd ~/ns-allinone-3.43/ns-3.43/
 
 ---
 
-## 🚀 Lancer la simulation
+## Lancer la simulation
 ---
 
 ### Créer et activer l’environnement virtuel Python
@@ -67,7 +67,7 @@ rm -rf ns3-5g-urlcc-upf
 
 ---
 
-## 📊 Objectif du projet
+##  Objectif du projet
 
 - Simuler différents **emplacements de UPFs** dans un réseau 5G URLLC
 - Tester **plusieurs topologies** et scénarios pour identifier :
