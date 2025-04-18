@@ -61,7 +61,7 @@ source venv/bin/activate
 ```bash
 cd scratch
 git clone https://github.com/<ton-nom-utilisateur>/ns3-5g-urlcc-upf.git
-mv ns3-5g-urlcc-upf/* .
+cd ns3-5g-urlcc-upf/
 python main.py
 ```
 
