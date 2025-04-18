@@ -39,6 +39,7 @@ cd ~/ns-allinone-3.43/ns-3.43/
 
 ```bash
 cd ~/ns-allinone-3.43/ns-3.43/
+./ns3 configure --enable-examples --enable-tests --enable-python-bindings
 ./ns3 build
 ```
 
