@@ -62,7 +62,7 @@ source venv/bin/activate
 cd scratch
 git clone https://github.com/<ton-nom-utilisateur>/ns3-5g-urlcc-upf.git
 mv ns3-5g-urlcc-upf/* .
-rm -rf ns3-5g-urlcc-upf
+python main.py
 ```
 
 ---
